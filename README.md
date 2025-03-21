@@ -1,2 +1,1 @@
-# DEMON-DIMENSION-001
-Trading app
+// Placeholder content for README.md
